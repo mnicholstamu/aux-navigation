@@ -1,0 +1,9 @@
+.megamenu {
+  position: absolute;
+  left:0;
+  width: 100vw;
+}
+
+.main {
+  min-height: 100vh;
+}
